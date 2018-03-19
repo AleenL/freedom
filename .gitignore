@@ -1,0 +1,13 @@
+# Created by .ignore support plugin (hsz.mobi)
+/*
+!src/
+!server/
+!.babelrc
+!.gitignore
+!package.json
+!webpack.config.js
+!README.md
+!build/
+/src/node_modules/*/lib/
+/src/node_modules/*/dist/
+/src/routus/*/lib/
