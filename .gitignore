@@ -8,6 +8,5 @@
 !webpack.config.js
 !README.md
 !build/
-/src/node_modules/*/lib/
-/src/node_modules/*/dist/
+/node_modules/
 /src/routus/*/lib/
