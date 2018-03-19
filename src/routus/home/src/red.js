@@ -8,7 +8,7 @@ export default class Red extends React.Component{
     render(){
         return(
             <div className='redPage' style={{background:'red'}}>
-                hello
+                hello dadlkajkldj
             </div>
         )
     }
