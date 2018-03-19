@@ -2,14 +2,65 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e5179174-e3f2-4f87-af54-d053b15c8260" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/node_modules/lb-load/src/index.jsx" afterPath="$PROJECT_DIR$/src/node_modules/lb-load/src/index.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/routus/home/src/index.jsx" afterPath="$PROJECT_DIR$/src/routus/home/src/index.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/routus/home/src/red.jsx" afterPath="$PROJECT_DIR$/src/routus/home/src/red.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/node_modules/style/package.json" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/bundle.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/make-dir/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/make-dir/license" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/make-dir/node_modules/pify/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/make-dir/node_modules/pify/license" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/make-dir/node_modules/pify/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/make-dir/node_modules/pify/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/make-dir/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/make-dir/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom-server.browser.development.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom-server.node.development.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom-server.node.production.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom-test-utils.development.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom-test-utils.production.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom-unstable-native-dependencies.development.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom-unstable-native-dependencies.production.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom.development.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom.production.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-dom/server.browser.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-dom/server.node.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-dom/umd/react-dom-server.browser.development.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-dom/umd/react-dom-server.browser.production.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-dom/umd/react-dom-test-utils.development.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-dom/umd/react-dom-test-utils.production.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-dom/umd/react-dom-unstable-native-dependencies.development.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-dom/umd/react-dom-unstable-native-dependencies.production.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-dom/umd/react-dom.development.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-dom/umd/react-dom.production.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-dom/unstable-native-dependencies.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react/cjs/react.development.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react/cjs/react.production.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react/umd/react.development.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react/umd/react.production.min.js" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/bundle.js" afterPath="$PROJECT_DIR$/dist/bundle.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/index.html" afterPath="$PROJECT_DIR$/dist/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/babel-loader/CHANGELOG.md" afterPath="$PROJECT_DIR$/node_modules/babel-loader/CHANGELOG.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/babel-loader/README.md" afterPath="$PROJECT_DIR$/node_modules/babel-loader/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/babel-loader/lib/fs-cache.js" afterPath="$PROJECT_DIR$/node_modules/babel-loader/lib/fs-cache.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/babel-loader/lib/index.js" afterPath="$PROJECT_DIR$/node_modules/babel-loader/lib/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/babel-loader/lib/resolve-rc.js" afterPath="$PROJECT_DIR$/node_modules/babel-loader/lib/resolve-rc.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/babel-loader/lib/utils/exists.js" afterPath="$PROJECT_DIR$/node_modules/babel-loader/lib/utils/exists.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/babel-loader/lib/utils/read.js" afterPath="$PROJECT_DIR$/node_modules/babel-loader/lib/utils/read.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/babel-loader/lib/utils/relative.js" afterPath="$PROJECT_DIR$/node_modules/babel-loader/lib/utils/relative.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/babel-loader/package.json" afterPath="$PROJECT_DIR$/node_modules/babel-loader/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/find-cache-dir/index.js" afterPath="$PROJECT_DIR$/node_modules/find-cache-dir/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/find-cache-dir/package.json" afterPath="$PROJECT_DIR$/node_modules/find-cache-dir/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/find-cache-dir/readme.md" afterPath="$PROJECT_DIR$/node_modules/find-cache-dir/readme.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/react-dom/index.js" afterPath="$PROJECT_DIR$/node_modules/react-dom/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/react-dom/package.json" afterPath="$PROJECT_DIR$/node_modules/react-dom/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/react-dom/server.js" afterPath="$PROJECT_DIR$/node_modules/react-dom/server.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/react-dom/test-utils.js" afterPath="$PROJECT_DIR$/node_modules/react-dom/test-utils.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/react/README.md" afterPath="$PROJECT_DIR$/node_modules/react/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/react/package.json" afterPath="$PROJECT_DIR$/node_modules/react/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package-lock.json" afterPath="$PROJECT_DIR$/package-lock.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/index.js" afterPath="$PROJECT_DIR$/src/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main.js" afterPath="$PROJECT_DIR$/src/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webpack.config.js" afterPath="$PROJECT_DIR$/webpack.config.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -26,11 +77,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="22" lean-forward="true" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+            <state relative-caret-position="965">
+              <caret line="90" column="33" lean-forward="false" selection-start-line="90" selection-start-column="33" selection-end-line="90" selection-end-column="33" />
               <folding />
             </state>
           </provider>
@@ -40,7 +91,7 @@
         <entry file="file://$PROJECT_DIR$/src/index.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
-              <caret line="8" column="2" lean-forward="true" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+              <caret line="8" column="2" lean-forward="false" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
               <folding>
                 <element signature="e#0#110#0" expanded="true" />
               </folding>
@@ -58,6 +109,16 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dist/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" column="7" lean-forward="false" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/routus/home/src/index.js">
           <provider selected="true" editor-type-id="text-editor">
@@ -68,21 +129,69 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/routus/home/package.json">
+      <file leaf-file-name="package-lock.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package-lock.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="870">
+              <caret line="58" column="30" lean-forward="false" selection-start-line="58" selection-start-column="30" selection-end-line="58" selection-end-column="30" />
+              <folding>
+                <marker date="1521441022010" expanded="true" signature="421670:421676" ph="{&quot;version&quot;: &quot;3.2.1&quot;...}" />
+                <marker date="1521441022010" expanded="true" signature="421693:421876" ph="{&quot;version&quot;: &quot;2.1.2&quot;...}" />
+                <marker date="1521441022010" expanded="true" signature="421891:423622" ph="{&quot;version&quot;: &quot;8.0.2&quot;...}" />
+                <marker date="1521441022010" expanded="true" signature="422084:422514" ph="{&quot;camelcase&quot;: &quot;4.1.0&quot;...}" />
+                <marker date="1521441022010" expanded="true" signature="422538:423616" ph="{...}" />
+                <marker date="1521441022010" expanded="true" signature="422561:422768" ph="{&quot;version&quot;: &quot;4.1.0&quot;...}" />
+                <marker date="1521441022010" expanded="true" signature="422787:423608" ph="{&quot;version&quot;: &quot;3.2.0&quot;...}" />
+                <marker date="1521441022010" expanded="true" signature="423000:423118" ph="{&quot;string-width&quot;: &quot;1.0.2&quot;...}" />
+                <marker date="1521441022010" expanded="true" signature="423146:423598" ph="{...}" />
+                <marker date="1521441022010" expanded="true" signature="423176:423586" ph="{&quot;version&quot;: &quot;1.0.2&quot;...}" />
+                <marker date="1521441022010" expanded="true" signature="423423:423572" ph="{&quot;code-point-at&quot;: &quot;1.1.0&quot;...}" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dist/assets/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+                <marker date="1521439778396" expanded="true" signature="2405:921523" ph="[...]" />
+                <marker date="1521439778396" expanded="true" signature="914999:918498" ph="{...}" />
+                <marker date="1521439778396" expanded="true" signature="915397:916044" ph="{...}" />
+                <marker date="1521439778396" expanded="true" signature="916074:916259" ph="{...}" />
+                <marker date="1521439778396" expanded="true" signature="916291:916477" ph="{...}" />
+                <marker date="1521439778396" expanded="true" signature="916515:918190" ph="{...}" />
+                <marker date="1521439778396" expanded="true" signature="917891:918180" ph="{&quot;path&quot;: match.url...}" />
+                <marker date="1521439778396" expanded="true" signature="917985:918170" ph="{...}" />
+                <marker date="1521439778396" expanded="true" signature="918227:918455" ph="{...}" />
+                <marker date="1521439778396" expanded="true" signature="918491:918496" ph="/*...*/" />
+                <marker date="1521439778396" expanded="true" signature="918501:918509" ph="/*...*/" />
+                <marker date="1521439778396" expanded="true" signature="918510:918515" ph="/*...*/" />
+                <marker date="1521439778396" expanded="true" signature="918564:918888" ph="{...}" />
+                <marker date="1521439778396" expanded="true" signature="918881:918886" ph="/*...*/" />
+                <marker date="1521439778396" expanded="true" signature="918891:918899" ph="/*...*/" />
+                <marker date="1521439778396" expanded="true" signature="918900:918905" ph="/*...*/" />
+                <marker date="1521439778396" expanded="true" signature="918954:921511" ph="{...}" />
+                <marker date="1521439778396" expanded="true" signature="920720:921450" ph="{...}" />
+                <marker date="1521439778396" expanded="true" signature="920780:921132" ph="{...}" />
+                <marker date="1521439778396" expanded="true" signature="921156:921429" ph="[...]" />
+                <marker date="1521439778396" expanded="true" signature="921157:921428" ph="{&quot;key&quot;: 'render'...}" />
+                <marker date="1521439778396" expanded="true" signature="921215:921422" ph="{...}" />
+                <marker date="1521439778396" expanded="true" signature="921504:921509" ph="/*...*/" />
+                <marker date="1521439778396" expanded="true" signature="921513:921521" ph="/*...*/" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="450">
-              <caret line="30" column="9" lean-forward="true" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
+              <caret line="30" column="9" lean-forward="false" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -90,37 +199,34 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/node_modules/style/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="webpack.config.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/webpack.config.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="37" lean-forward="false" selection-start-line="1" selection-start-column="37" selection-end-line="1" selection-end-column="37" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/node_modules/lb-load/package.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="package-lock.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/package-lock.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="32" column="30" lean-forward="false" selection-start-line="32" selection-start-column="30" selection-end-line="32" selection-end-column="30" />
+            <state relative-caret-position="285">
+              <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -132,7 +238,6 @@
         <option value="$PROJECT_DIR$/app/fool.js" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/app/index.js" />
-        <option value="$PROJECT_DIR$/dist/index.html" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/src/node_modules/lb-load/package.json" />
@@ -142,11 +247,14 @@
         <option value="$PROJECT_DIR$/src/routus/home/package.json" />
         <option value="$PROJECT_DIR$/src/routus/home/src/index.jsx" />
         <option value="$PROJECT_DIR$/src/red.jsx" />
-        <option value="$PROJECT_DIR$/package.json" />
-        <option value="$PROJECT_DIR$/webpack.config.js" />
         <option value="$PROJECT_DIR$/src/routus/home/src/red.js" />
         <option value="$PROJECT_DIR$/src/index.js" />
         <option value="$PROJECT_DIR$/src/main.js" />
+        <option value="$PROJECT_DIR$/src/node_modules/style/package.json" />
+        <option value="$PROJECT_DIR$/src/node_modules/style/src/index.scss.css" />
+        <option value="$PROJECT_DIR$/webpack.config.js" />
+        <option value="$PROJECT_DIR$/dist/index.html" />
+        <option value="$PROJECT_DIR$/package.json" />
       </list>
     </option>
   </component>
@@ -163,8 +271,8 @@
     <handled-path value="$PROJECT_DIR$/src/node_modules" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
-    <option name="x" value="842" />
-    <option name="width" value="1718" />
+    <option name="x" value="1190" />
+    <option name="width" value="1370" />
     <option name="height" value="1440" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -195,26 +303,28 @@
             <path>
               <item name="webpack-demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="webpack-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="webpack-demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="webpack-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="dist" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="webpack-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webpack-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="dist" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="webpack-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webpack-demo" type="462c0819:PsiDirectoryNode" />
               <item name="node_modules" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="webpack-demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="webpack-demo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
-              <item name="lb-load" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="webpack-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="webpack-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="routus" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -227,14 +337,15 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/dist/assets" />
       <recent name="$PROJECT_DIR$/src/routus/home/src" />
       <recent name="$PROJECT_DIR$/src/node_modules/lb-load" />
       <recent name="$PROJECT_DIR$/src" />
       <recent name="$PROJECT_DIR$/dist" />
-      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -328,26 +439,25 @@
       <workItem from="1521191421723" duration="1753000" />
       <workItem from="1521193183825" duration="501000" />
       <workItem from="1521193702645" duration="1698000" />
-      <workItem from="1521427918922" duration="7624000" />
+      <workItem from="1521427918922" duration="10906000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18782000" />
+    <option name="totallyTimeSpent" value="22064000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="842" y="0" width="1718" height="1440" extended-state="6" />
-    <editor active="true" />
+    <frame x="1190" y="0" width="1370" height="1440" extended-state="6" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3777254" sideWeight="0.65968585" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4751668" sideWeight="0.65968585" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4315476" sideWeight="0.51384795" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4315476" sideWeight="0.5196442" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296131" sideWeight="0.49698535" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4315476" sideWeight="0.48615202" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3777254" sideWeight="0.34031415" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4315476" sideWeight="0.48035583" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4751668" sideWeight="0.34031415" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16666667" sideWeight="0.49095607" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16666667" sideWeight="0.48554486" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26112643" sideWeight="0.5172031" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -369,23 +479,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#110#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/babel-loader/lib/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/node_modules/babel-loader/lib/utils/relative.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -418,7 +511,19 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
           <caret line="30" column="30" lean-forward="false" selection-start-line="30" selection-start-column="30" selection-end-line="30" selection-end-column="30" />
-          <folding />
+          <folding>
+            <marker date="1521441022010" expanded="true" signature="421670:421676" ph="{&quot;version&quot;: &quot;3.2.1&quot;...}" />
+            <marker date="1521441022010" expanded="true" signature="421693:421876" ph="{&quot;version&quot;: &quot;2.1.2&quot;...}" />
+            <marker date="1521441022010" expanded="true" signature="421891:423622" ph="{&quot;version&quot;: &quot;8.0.2&quot;...}" />
+            <marker date="1521441022010" expanded="true" signature="422084:422514" ph="{&quot;camelcase&quot;: &quot;4.1.0&quot;...}" />
+            <marker date="1521441022010" expanded="true" signature="422538:423616" ph="{...}" />
+            <marker date="1521441022010" expanded="true" signature="422561:422768" ph="{&quot;version&quot;: &quot;4.1.0&quot;...}" />
+            <marker date="1521441022010" expanded="true" signature="422787:423608" ph="{&quot;version&quot;: &quot;3.2.0&quot;...}" />
+            <marker date="1521441022010" expanded="true" signature="423000:423118" ph="{&quot;string-width&quot;: &quot;1.0.2&quot;...}" />
+            <marker date="1521441022010" expanded="true" signature="423146:423598" ph="{...}" />
+            <marker date="1521441022010" expanded="true" signature="423176:423586" ph="{&quot;version&quot;: &quot;1.0.2&quot;...}" />
+            <marker date="1521441022010" expanded="true" signature="423423:423572" ph="{&quot;code-point-at&quot;: &quot;1.1.0&quot;...}" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -444,7 +549,19 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
           <caret line="30" column="30" lean-forward="false" selection-start-line="30" selection-start-column="30" selection-end-line="30" selection-end-column="30" />
-          <folding />
+          <folding>
+            <marker date="1521441022010" expanded="true" signature="421670:421676" ph="{&quot;version&quot;: &quot;3.2.1&quot;...}" />
+            <marker date="1521441022010" expanded="true" signature="421693:421876" ph="{&quot;version&quot;: &quot;2.1.2&quot;...}" />
+            <marker date="1521441022010" expanded="true" signature="421891:423622" ph="{&quot;version&quot;: &quot;8.0.2&quot;...}" />
+            <marker date="1521441022010" expanded="true" signature="422084:422514" ph="{&quot;camelcase&quot;: &quot;4.1.0&quot;...}" />
+            <marker date="1521441022010" expanded="true" signature="422538:423616" ph="{...}" />
+            <marker date="1521441022010" expanded="true" signature="422561:422768" ph="{&quot;version&quot;: &quot;4.1.0&quot;...}" />
+            <marker date="1521441022010" expanded="true" signature="422787:423608" ph="{&quot;version&quot;: &quot;3.2.0&quot;...}" />
+            <marker date="1521441022010" expanded="true" signature="423000:423118" ph="{&quot;string-width&quot;: &quot;1.0.2&quot;...}" />
+            <marker date="1521441022010" expanded="true" signature="423146:423598" ph="{...}" />
+            <marker date="1521441022010" expanded="true" signature="423176:423586" ph="{&quot;version&quot;: &quot;1.0.2&quot;...}" />
+            <marker date="1521441022010" expanded="true" signature="423423:423572" ph="{&quot;code-point-at&quot;: &quot;1.1.0&quot;...}" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -456,7 +573,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dist/assets/bundle.js" />
+    <entry file="file://$PROJECT_DIR$/dist/assets/main.js" />
     <entry file="file://$PROJECT_DIR$/webpack.config.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -499,7 +616,19 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
           <caret line="29" column="30" lean-forward="false" selection-start-line="29" selection-start-column="30" selection-end-line="29" selection-end-column="30" />
-          <folding />
+          <folding>
+            <marker date="1521441022010" expanded="true" signature="421670:421676" ph="{&quot;version&quot;: &quot;3.2.1&quot;...}" />
+            <marker date="1521441022010" expanded="true" signature="421693:421876" ph="{&quot;version&quot;: &quot;2.1.2&quot;...}" />
+            <marker date="1521441022010" expanded="true" signature="421891:423622" ph="{&quot;version&quot;: &quot;8.0.2&quot;...}" />
+            <marker date="1521441022010" expanded="true" signature="422084:422514" ph="{&quot;camelcase&quot;: &quot;4.1.0&quot;...}" />
+            <marker date="1521441022010" expanded="true" signature="422538:423616" ph="{...}" />
+            <marker date="1521441022010" expanded="true" signature="422561:422768" ph="{&quot;version&quot;: &quot;4.1.0&quot;...}" />
+            <marker date="1521441022010" expanded="true" signature="422787:423608" ph="{&quot;version&quot;: &quot;3.2.0&quot;...}" />
+            <marker date="1521441022010" expanded="true" signature="423000:423118" ph="{&quot;string-width&quot;: &quot;1.0.2&quot;...}" />
+            <marker date="1521441022010" expanded="true" signature="423146:423598" ph="{...}" />
+            <marker date="1521441022010" expanded="true" signature="423176:423586" ph="{&quot;version&quot;: &quot;1.0.2&quot;...}" />
+            <marker date="1521441022010" expanded="true" signature="423423:423572" ph="{&quot;code-point-at&quot;: &quot;1.1.0&quot;...}" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -511,7 +640,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dist/assets/bundle.js" />
+    <entry file="file://$PROJECT_DIR$/dist/assets/main.js" />
     <entry file="file://$PROJECT_DIR$/webpack.config.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -564,7 +693,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dist/assets/bundle.js" />
+    <entry file="file://$PROJECT_DIR$/dist/assets/main.js" />
     <entry file="file://$PROJECT_DIR$/dist/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -583,22 +712,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/dist/main.js" />
-    <entry file="file://$PROJECT_DIR$/dist/bundle.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dist/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="19" lean-forward="false" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -631,26 +744,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package-lock.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" column="30" lean-forward="false" selection-start-line="32" selection-start-column="30" selection-end-line="32" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/routus/home/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
-          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="22" lean-forward="true" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -671,14 +768,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/webpack.config.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="37" lean-forward="false" selection-start-line="1" selection-start-column="37" selection-end-line="1" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/routus/home/src/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -690,9 +779,59 @@
     <entry file="file://$PROJECT_DIR$/src/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="8" column="2" lean-forward="true" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+          <caret line="8" column="2" lean-forward="false" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
           <folding>
             <element signature="e#0#110#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/node_modules/style/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/node_modules/style/src/index.scss.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/assets/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <marker date="1521439778396" expanded="true" signature="2405:921523" ph="[...]" />
+            <marker date="1521439778396" expanded="true" signature="914999:918498" ph="{...}" />
+            <marker date="1521439778396" expanded="true" signature="915397:916044" ph="{...}" />
+            <marker date="1521439778396" expanded="true" signature="916074:916259" ph="{...}" />
+            <marker date="1521439778396" expanded="true" signature="916291:916477" ph="{...}" />
+            <marker date="1521439778396" expanded="true" signature="916515:918190" ph="{...}" />
+            <marker date="1521439778396" expanded="true" signature="917891:918180" ph="{&quot;path&quot;: match.url...}" />
+            <marker date="1521439778396" expanded="true" signature="917985:918170" ph="{...}" />
+            <marker date="1521439778396" expanded="true" signature="918227:918455" ph="{...}" />
+            <marker date="1521439778396" expanded="true" signature="918491:918496" ph="/*...*/" />
+            <marker date="1521439778396" expanded="true" signature="918501:918509" ph="/*...*/" />
+            <marker date="1521439778396" expanded="true" signature="918510:918515" ph="/*...*/" />
+            <marker date="1521439778396" expanded="true" signature="918564:918888" ph="{...}" />
+            <marker date="1521439778396" expanded="true" signature="918881:918886" ph="/*...*/" />
+            <marker date="1521439778396" expanded="true" signature="918891:918899" ph="/*...*/" />
+            <marker date="1521439778396" expanded="true" signature="918900:918905" ph="/*...*/" />
+            <marker date="1521439778396" expanded="true" signature="918954:921511" ph="{...}" />
+            <marker date="1521439778396" expanded="true" signature="920720:921450" ph="{...}" />
+            <marker date="1521439778396" expanded="true" signature="920780:921132" ph="{...}" />
+            <marker date="1521439778396" expanded="true" signature="921156:921429" ph="[...]" />
+            <marker date="1521439778396" expanded="true" signature="921157:921428" ph="{&quot;key&quot;: 'render'...}" />
+            <marker date="1521439778396" expanded="true" signature="921215:921422" ph="{...}" />
+            <marker date="1521439778396" expanded="true" signature="921504:921509" ph="/*...*/" />
+            <marker date="1521439778396" expanded="true" signature="921513:921521" ph="/*...*/" />
           </folding>
         </state>
       </provider>
@@ -700,10 +839,54 @@
     <entry file="file://$PROJECT_DIR$/src/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
-          <caret line="30" column="9" lean-forward="true" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
+          <caret line="30" column="9" lean-forward="false" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="870">
+          <caret line="58" column="30" lean-forward="false" selection-start-line="58" selection-start-column="30" selection-end-line="58" selection-end-column="30" />
+          <folding>
+            <marker date="1521441022010" expanded="true" signature="421670:421676" ph="{&quot;version&quot;: &quot;3.2.1&quot;...}" />
+            <marker date="1521441022010" expanded="true" signature="421693:421876" ph="{&quot;version&quot;: &quot;2.1.2&quot;...}" />
+            <marker date="1521441022010" expanded="true" signature="421891:423622" ph="{&quot;version&quot;: &quot;8.0.2&quot;...}" />
+            <marker date="1521441022010" expanded="true" signature="422084:422514" ph="{&quot;camelcase&quot;: &quot;4.1.0&quot;...}" />
+            <marker date="1521441022010" expanded="true" signature="422538:423616" ph="{...}" />
+            <marker date="1521441022010" expanded="true" signature="422561:422768" ph="{&quot;version&quot;: &quot;4.1.0&quot;...}" />
+            <marker date="1521441022010" expanded="true" signature="422787:423608" ph="{&quot;version&quot;: &quot;3.2.0&quot;...}" />
+            <marker date="1521441022010" expanded="true" signature="423000:423118" ph="{&quot;string-width&quot;: &quot;1.0.2&quot;...}" />
+            <marker date="1521441022010" expanded="true" signature="423146:423598" ph="{...}" />
+            <marker date="1521441022010" expanded="true" signature="423176:423586" ph="{&quot;version&quot;: &quot;1.0.2&quot;...}" />
+            <marker date="1521441022010" expanded="true" signature="423423:423572" ph="{&quot;code-point-at&quot;: &quot;1.1.0&quot;...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="7" lean-forward="false" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webpack.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="965">
+          <caret line="90" column="33" lean-forward="false" selection-start-line="90" selection-start-column="33" selection-end-line="90" selection-end-column="33" />
+          <folding />
         </state>
       </provider>
     </entry>

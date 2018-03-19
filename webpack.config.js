@@ -1,9 +1,10 @@
+
 module.exports = {
     entry: __dirname + "/src/index.js",
 
     output:{
-        path: __dirname + "/dist",
-        filename: "bundle.js"
+        path: __dirname + "/dist/assets",
+        filename: "main.js"
     },
 
     module: {
