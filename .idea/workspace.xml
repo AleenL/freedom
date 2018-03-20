@@ -17,11 +17,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-148">
-              <caret line="7" column="118" lean-forward="false" selection-start-line="7" selection-start-column="118" selection-end-line="7" selection-end-column="118" />
+            <state relative-caret-position="135">
+              <caret line="9" column="45" lean-forward="false" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
               <folding />
             </state>
           </provider>
@@ -97,7 +97,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="entryBuild.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="entryBuild.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config/entry/entryBuild.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="420">
@@ -174,7 +174,6 @@
         <option value="$PROJECT_DIR$/app/component/index/index.jsx" />
         <option value="$PROJECT_DIR$/app/public/css/index.pcss" />
         <option value="$PROJECT_DIR$/app/component/shop/index.jsx" />
-        <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/entryBuild/shop.js" />
         <option value="$PROJECT_DIR$/entryBuild/index.js" />
         <option value="$PROJECT_DIR$/config/webpack/webpack.base.conf.js" />
@@ -188,6 +187,7 @@
         <option value="$PROJECT_DIR$/config/common/imgDel.js" />
         <option value="$PROJECT_DIR$/config/common/nodeCommon.js" />
         <option value="$PROJECT_DIR$/config/entry/entryBuild.js" />
+        <option value="$PROJECT_DIR$/package.json" />
       </list>
     </option>
   </component>
@@ -412,12 +412,12 @@
       <workItem from="1521449144290" duration="98000" />
       <workItem from="1521449264364" duration="14000" />
       <workItem from="1521451643882" duration="7124000" />
-      <workItem from="1521460465732" duration="6267000" />
+      <workItem from="1521460465732" duration="6328000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42866000" />
+    <option name="totallyTimeSpent" value="42927000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -675,14 +675,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-148">
-          <caret line="7" column="118" lean-forward="false" selection-start-line="7" selection-start-column="118" selection-end-line="7" selection-end-column="118" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/config/common/imgDel.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
@@ -719,6 +711,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
           <caret line="28" column="2" lean-forward="true" selection-start-line="28" selection-start-column="2" selection-end-line="28" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="45" lean-forward="false" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
           <folding />
         </state>
       </provider>
